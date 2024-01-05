@@ -3,9 +3,12 @@
     "enable_dark_theme": false,
     "type_header_font": "assistant_n4",
     "social_facebook_link": "",
-    "content_for_index": []
+    "content_for_index": [
+
+    ]
   },
   "presets": {
-    "Default": {}
+    "Default": {
+    }
   }
 }
